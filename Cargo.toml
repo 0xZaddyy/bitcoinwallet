@@ -1,0 +1,12 @@
+[package]
+name = "bitcoinwallet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+sha2 = "0.10"
+ripemd160 = "0.10"
+base58 = "0.2.0"
+secp256k1 = "0.26"
+
